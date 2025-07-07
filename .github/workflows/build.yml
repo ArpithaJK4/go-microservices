@@ -1,4 +1,4 @@
-name: CI - Build and Compose Up
+name: CI - Build and Compose Up   
 
 on:
   push:
